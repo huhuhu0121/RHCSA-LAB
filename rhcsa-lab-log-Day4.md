@@ -1,3 +1,12 @@
+RHCSA Lab Log
+RHCSA 자격증 준비 및 Linux 시스템 관리 실습 과정을 기록한 문서입니다.
+VMware 기반 Red Hat Enterprise Linux 환경에서 실습을 진행하고 있습니다.
+
+🧪 Lab Environment
+OS: Red Hat Enterprise Linux 10
+Virtualization: VMware Workstation
+접속 방식: SSH
+
 # RHCSA Practice Log — Day04 (Node1 System Configuration)
 
 ## 📌 Overview
