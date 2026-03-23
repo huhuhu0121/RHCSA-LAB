@@ -7,7 +7,7 @@ OS: Red Hat Enterprise Linux 10
 Virtualization: VMware Workstation
 접속 방식: SSH
 
-# RHCSA Practice Log — Day04 (Node1 System Configuration)
+Day04 (Node1 System Configuration)
 
 ## 📌 Overview
 
